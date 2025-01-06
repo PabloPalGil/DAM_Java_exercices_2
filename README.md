@@ -1,0 +1,3 @@
+# DAM_Java_exercices_2
+Implementation of different utilities and classes in Java: Thread, Runnable, TCP, UDP, FTP, SMTP, HTTP, Spring Boot...
+Mainly from DAM Processes and Services Programming module.
